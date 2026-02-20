@@ -46,7 +46,7 @@
     "karma-phantomjs-launcher": "1.0.2",
     "karma-requirejs": "1.1.0",
     "less-plugin-clean-css": "1.5.1",
-    "lodash": "4.17.21",
+    "lodash": "4.17.23",
     "mocha": "7.2.0",
     "phantomjs-prebuilt": "2.1.16",
     "requirejs": "2.3.7",
@@ -54,7 +54,7 @@
     "sinon": "1.17.6",
     "sinon-chai": "2.8.0",
 
-    "ajv": "^8.16.0"
+    "ajv": "^8.18.0"
   },
   "overrides": {
     "mocha": {
